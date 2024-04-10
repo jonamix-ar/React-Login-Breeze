@@ -1,0 +1,11 @@
+{
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "prettier.eslintIntegration": true,
+  "semi": false,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "singleQuote": true
+}
+
